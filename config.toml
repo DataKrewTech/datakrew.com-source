@@ -24,6 +24,8 @@ link = "plugins/Ionicons/css/ionicons.min.css"
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/slider/slider.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -38,6 +40,8 @@ link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
+[[params.plugins.js]]
+link = "plugins/slider/slider.js"
 
   
 ############################## navigation ###############################

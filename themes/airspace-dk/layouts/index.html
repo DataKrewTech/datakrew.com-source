@@ -11,6 +11,17 @@
       <div class="col-md-12">
         <div class="block">
           <h1>{{ .title | markdownify }}</h1>
+          <h1 class="wow fadeInUp animated cd-headline slide" data-wow-delay=".4s">
+            <span class="cd-words-wrapper">
+               {{ range $index, $element :=  $data.homepage.banner.fliptext }}
+                  {{ if eq $index 0 }}
+                  <b class="is-visible">{{ $element }}</b>
+                  {{else}}
+                  <b class="">{{ $element }}</b>
+                  {{end}}
+              {{ end }} 
+            </span>
+          </h1>
           <p>{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}

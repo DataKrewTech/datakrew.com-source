@@ -8,6 +8,7 @@ banner:
     enable : true
     label : "Discover Our Project"
     link : "project"
+  fliptext: ["Developer", "Designer", "Manager"]
 
 ############################# About #################################
 about:
