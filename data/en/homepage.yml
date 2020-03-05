@@ -2,13 +2,13 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title : "Introducing MADS. <br/> Large scale IoT Apps for"
+  content : "World's First Open-Source Distributed OS for Large-Scale IoT Applications serving millions of devices and billions of data points."
   button:
     enable : true
-    label : "Discover Our Project"
+    label : "Enter THE MADS-VERSE"
     link : "project"
-  fliptext: ["Developer", "Designer", "Manager"]
+  fliptext: ["Productivity", "Analytics", "Optimization", "Security"]
 
 ############################# About #################################
 about:

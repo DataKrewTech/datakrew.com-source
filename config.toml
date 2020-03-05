@@ -122,14 +122,14 @@ weight = 6
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/datakrew-logo-small.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # Contact Information
 mobile = "0124857985320"
-email = "demo@email.com"
-location = "North Main Street,Brooklyn Australia"
+email = "info@datakrew.com"
+location = "1 Cleantech Loop, Singapore 637141"
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # Google Analitycs
