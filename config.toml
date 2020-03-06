@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://datakrewtech.github.io/datakrew.com-source/"
+baseURL = "/"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-dk"
 publishDir = "docs"
