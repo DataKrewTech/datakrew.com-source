@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Introducing MADS. <br/> Large scale IoT Apps for"
+  title : "Large scale IoT Apps for"
   content : "World's First Open-Source Distributed OS for Large-Scale IoT Applications serving millions of devices and billions of data points."
   button:
     enable : true
