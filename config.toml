@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "/"
-title = "Airspace | Creative Agency Hugo Template"
+title = "Datakrew – The best AIoT apps, just for you."
 theme = "airspace-dk"
 publishDir = "docs"
 # post pagination
@@ -124,10 +124,10 @@ weight = 6
 [params]
 logo = "images/datakrew-logo-small.png"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Datakrew's MADS OS is like Android for AIoT apps."
+author = "Datakrew"
 # Contact Information
-mobile = "0124857985320"
+mobile = "tel:+65-98612535"
 email = "info@datakrew.com"
 location = "1 Cleantech Loop, Singapore 637141"
 # contact form action
@@ -160,29 +160,33 @@ map_marker = "images/marker.png"
 
   
 ############################# social site ########################
-[[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+# [[params.social]]
+# icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 [[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-linkedin" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://linkedin.com/company/datakrew"
+
+# [[params.social]]
+# icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
+
+# [[params.social]]
+# icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
+# link = "#"
 
 [[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-twitter" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://twitter.com/DataKrew"
 
 [[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-facebook" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.facebook.com/DataKrewTech"
 
 [[params.social]]
-icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+icon = "ion-social-github" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://github.com/DataKrewTech"
 
 
 ################################ English Language ########################
@@ -193,7 +197,7 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Datakrew](https://datakrew.com) All Rights Reserved"
 
 ################################ France Language ########################
 [Languages.fr]
@@ -203,4 +207,4 @@ contentDir = "content/french"
 weight = 2
 home = "Accueil"
 # copyright
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Datakrew](https://datakrew.com) All Rights Reserved"
