@@ -2,13 +2,13 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  title : "Large scale IoT Apps for"
+  title : "Large scale IoT Apps to"
   content : "World's First Open-Source Distributed OS for Large-Scale IoT Applications serving millions of devices and billions of data points."
   button:
     enable : true
     label : "Enter THE MADS-VERSE"
     link : "project"
-  fliptext: ["Productivity", "Analytics", "Optimization", "Security"]
+  fliptext: ["Monitor", "Analyse", "Diagnose", "Secure"]
 
 ############################# About #################################
 about:
